@@ -1,0 +1,16 @@
+{
+  "name": "docusaurus-plugin-pagemove",
+  "version": "1.0.0",
+  "description": "pagemove plugin for docusaurus",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@docusaurus/core": "^2.2.0"
+  }
+}
